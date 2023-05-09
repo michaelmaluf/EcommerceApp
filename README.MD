@@ -3,6 +3,16 @@
 Full-stack E-Commerce Android App designed and built by myself, my brother, Jack Maluf, and my partner, Sandy Pollen. Product is built in Java and utilizes Firebase.
 Product is fully functional and resemebles modern day e-commerce application. 
 
+The android App is created in Android Studio and uses Firebase Realtime Database for the db. 
+
+Concepts excelled/learned:
+1. Collobaration via Agile software development methodology.
+2. Integrating a full functional front-end with a persistent back-end.
+3. SQL and database knowledge.
+4. Firebase Authentication and Realtime Database.
+
+
+
 # Some results
 ![1  login](https://user-images.githubusercontent.com/80276013/120007266-593e1400-bff7-11eb-9afc-a93f8da29290.png)&nbsp;&nbsp;&nbsp;![2  signup](https://user-images.githubusercontent.com/80276013/120007331-6bb84d80-bff7-11eb-8004-2a517bb13e05.png)&nbsp;&nbsp;&nbsp;!
 
